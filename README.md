@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Welcome to MY Github</h1>
+<h1 align="center">Hey, I'm Lal</h1>
 
 ###
 
